@@ -4,7 +4,7 @@ A simple command-line Snake Water Gun game built using basic Python concepts. Th
 - Basic CLI interface
 - User vs Computer gameplay
 - Random computer choices
-- 
+  
 - ## 🧠 Rules
 - Snake drinks Water → Snake wins
 - Gun shoots Snake → Gun wins
