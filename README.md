@@ -15,10 +15,10 @@ A simple command-line Snake Water Gun game built using basic Python concepts. Th
 
 - ## 🏁 How to Run
 1. Clone the repository  
-   `git clone https://github.com/Ayesha1209s/snake-water-gun game.git`
+   `git clone https://github.com/Ayesha1209s/snake-water-gun-game.git`
 
 2. Navigate to the folder  
-   `cd snake-water-gun game`
+   `cd snake-water-gun-game`
 
 3. Run the game  
    `python snake_water_gun.py`
